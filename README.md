@@ -51,6 +51,11 @@ Model selection, any installed model
 $ ./nerd "What does x86-64 mean?" "deepseek-r1:8b"
 ```
 
+If you don't know what the model name is just use this to show all models
+```bash
+$ ollama list
+```
+
 # To-Do
 
 - [ ] No hardcoded default model
