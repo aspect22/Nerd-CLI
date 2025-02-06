@@ -1,7 +1,7 @@
 # Nerd-CLI
 
 A Chatbot running inside of the Terminal using ollama API.  
-**ONLY SUPPORTS WINDOWS**
+**PROBABLY ONLY SUPPORTS WINDOWS NEVER TESTED ON LINUX**
 
 # Installation
 
