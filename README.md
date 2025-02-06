@@ -50,3 +50,14 @@ Model selection, any installed model
 ```bash
 $ ./nerd "What does x86-64 mean?" "deepseek-r1:8b"
 ```
+
+# To-Do
+
+- [ ] No hardcoded default model
+- [ ] Optimization (Probably)
+- [ ] Config File
+
+# Credits
+
+No one cuz I made this myself lol.  
+Jk i can't code credits to ChatGPT for helping me
